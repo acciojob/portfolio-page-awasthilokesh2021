@@ -1,2 +1,56 @@
+body {
+    background-color: black;
+}
 
-/* Your CSS Code here. */
+.text {
+    background: lightblue;
+    margin: 93px 279px;
+    padding: 76px 32px;
+    border: 2px solid white;
+}
+
+.tt img {
+    height: 206px;
+    border: 2px solid white;
+    border-radius: 147px;
+    margin: 27px 7px;
+}
+
+.container {
+    margin: -23px 38px;
+}
+
+.container a {
+    font-size: 18px;
+    margin: 2px;
+}
+
+.bb {
+    position: absolute;
+    top: 160px;
+    right: 325px;
+    display: inline-block;
+    width: 234px;
+}
+
+.h {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    width: 5px;
+    padding: 2px 2px;
+    margin: 2px 2px;
+}
+
+.lab {
+    margin: 2px;
+    padding: 8px;
+}
+
+.cc {
+    position: absolute;
+    top: 212px;
+    right: 0px;
+    display: inline-block;
+    width: 234px;
+}
