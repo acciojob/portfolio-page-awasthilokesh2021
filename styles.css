@@ -1,2 +1,45 @@
+body {
+    background-color: black;
+}
 
-/* Your CSS Code here. */
+.text {
+    background: lightblue;
+    margin: 0px 271px;
+    padding: 0px 120px;
+    border: 2px solid white;
+}
+
+.tt img {
+    height: 165px;
+    border: 2px solid white;
+    border-radius: 147px;
+    margin: 32px 42px;
+}
+
+.container {
+    margin: -23px 38px;
+}
+.h1{
+    padding: 7px 1px;
+    margin: 0px 13px;
+    font-weight: 100;
+}
+}
+.container a {
+    font-size: 18px;
+    margin: 2px;
+}
+.label{
+    padding: 0px 29px;
+    margin: 8px 9px;
+}
+.skills{
+    padding: 2px 2px;
+    margin: 2px 2px;
+    display: block;
+}
+.projects{
+    padding: 2px 2px;
+    margin: 2px 2px;
+    display: block;
+}
