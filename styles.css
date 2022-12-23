@@ -1,13 +1,3 @@
-body {
-    background-color: black;
-}
-
-.text {
-    background: lightblue;
-    margin: 0px 271px;
-    padding: 0px 120px;
-    border: 2px solid white;
-}
 
 .tt img {
     height: 165px;
@@ -23,7 +13,6 @@ body {
     padding: 7px 1px;
     margin: 0px 13px;
     font-weight: 100;
-}
 }
 .container a {
     font-size: 18px;
